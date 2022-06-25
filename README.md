@@ -1,0 +1,1 @@
+# EFI-OC-Monterey-PC-AMD-Ryzen-5-3600
